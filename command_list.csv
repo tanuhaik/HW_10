@@ -1,0 +1,93 @@
+    1  git - version
+    2  git --version
+    3  man ls
+    4  3 ls
+    5  ls
+    6  cd
+    7  cd
+    8  cd Desktop
+    9  cd Desktop
+   10  pwd
+   11  cd Desktop
+   12  pwd
+   13  nano file.txt
+   14  rm file.txt
+   15  clear
+   16  git config --global user.name "Tania Ikonnykova"
+   17  git config --global user.email tanuhaik@gmail.com 
+   18  git clone https://github.com/tanuhaik/mi.git
+   19  git status
+   20  cd
+   21  history -c && rm ~/.bash_history
+   22  cd Desctop
+   23  cd Desktop
+   24  history -c && rm ~/.bash_history
+   25  git config --global user.name "Tetiana"
+   26  git config --global user.email "tanuhaik@gmail.com"
+   27  git clone <https://github.com/tanuhaik/HW_10..git>
+   28  git clone https://github.com/tanuhaik/HW_10..git
+   29  cd HW_10
+   30  cd HW10
+   31  ~/Desktop/HW_10
+   32  git config --global user.name "Tania Ikonnykova"
+   33  git config --global user.email"tanuhaik@gmail.com"
+   34  git clone https://github.com/tanuhaik/HW_10..git
+   35  cd HW_10
+   36  touch text_ignore.txt
+   37  nano .gitignore
+   38  git status
+   39  git add .
+   40  git status
+   41  HW_10
+   42  echo "text_ignore.txt" >> .gitignore\n
+   43  text_ignore.txt\n
+   44  git status\n
+   45  git - version
+   46  clear
+   47  git clone https://github.com/tanuhaik/HW_10..git
+   48  cd HW_10
+   49  touch text_ignore.txt
+   50  echo "text_ignore.txt" >> .gitignore\n
+   51  git status\n
+   52  git config --global user.name "Tetiana"
+   53  git config --global user.email tanuhaik@gmail.com
+   54  git clone https://github.com/tanuhaik/HW_10..git
+   55  cd HW
+   56  cd HW_10
+   57  git config --global user.name "Tetiana"
+   58  git config --global user.email tanuhaik@gmail.com
+   59  git clone https://github.com/tanuhaik/HW_10.git
+   60  cd HW_10
+   61  touch text_ignore.txt
+   62  nano .gitignore
+   63  git status
+   64  clean
+   65  clear
+   66  git config --global user.name "Tetiana"
+   67  git config -- global user.email "tanuhaik@gmail.com"
+   68  clear
+   69  git config --global user.name "Tetiana"
+   70  git config --global user.email tanuhaik@gmail.com
+   71  git clone https://github.com/tanuhaik/HW_10.git
+   72  cd HW_10
+   73  touch text_ignore.txt
+   74  nano .gitignore
+   75  git status
+   76  git add .
+   77  git commit -m "Add text_ignore.txt to .gitignore"
+   78  touch main_test.txt
+   79  git add .
+   80  git commit -m "Add empty file main_test.txt"
+   81  git checkout -b develop
+   82  touch develop_test.txt
+   83  git add .
+   84  git commit -m "Add empty file develop_test.txt"
+   85  nano develop_test.txt
+   86  git status
+   87  git add .
+   88  git commit -m "Update develop_test.txt"
+   89  git checkout main
+   90  git checkout master
+   91  git checkout main
+   92  git merge develop
+   93  git log --oneline
